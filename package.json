@@ -1,6 +1,6 @@
 {
   "name": "wolf-central-api",
   "version": "1.0.0",
-  "main": "api/index.js",
+  "main": "index.js",
   "type": "module"
 }
